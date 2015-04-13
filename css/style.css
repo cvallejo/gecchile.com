@@ -411,7 +411,7 @@ p {
 /* Fullscreen fixed background */
  .fullscreen-image {
     position: fixed !important;
-    z-index: -9999;
+    z-index: -99;
 }
 .header-center {
     position: absolute;
