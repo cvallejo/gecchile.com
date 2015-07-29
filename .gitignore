@@ -2,3 +2,4 @@
 deploy.sh
 .idea
 /gecchile_tarjetas
+*.tar.gz
